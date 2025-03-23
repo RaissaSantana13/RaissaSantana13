@@ -6,7 +6,6 @@ Me chamo Raissa Santana, tenho 19 anos e sou estudante de Engenharia da ComputaÃ
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:raissasanta8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/raissa-santana-785736353/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/raiii.santana/)
 ---
 
 ### ðŸ¤– Linguagens e Tecnologias
