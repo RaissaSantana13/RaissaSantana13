@@ -12,8 +12,8 @@ Me chamo Raissa Santana, tenho 19 anos e sou estudante de Engenharia da ComputaÃ
 
 <img 
     align="left" 
-    alt="C++"
-    title="C++" 
+    alt="C#"
+    title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" 
@@ -62,6 +62,15 @@ Me chamo Raissa Santana, tenho 19 anos e sou estudante de Engenharia da ComputaÃ
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
 />
           
 
