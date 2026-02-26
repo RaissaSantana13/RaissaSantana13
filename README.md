@@ -113,6 +113,7 @@ align="left"
 <br/>
 <br/>
 
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -130,4 +131,5 @@ align="left"
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSantana13&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  -->
 </p>
