@@ -22,6 +22,7 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
   <tr>
     <td>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
@@ -44,6 +45,7 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 
 ### 🚀 Featured Projects
 
+* **🎬 [Cinephile Mobile App](https://github.com/raissasantana13/cinephile_mobile_app)**: An immersive mobile experience built with **React Native** and **Expo** for movie enthusiasts. It features dynamic **TMDB API** consumption for real-time listings, **Appwrite** integration for cloud-based trend persistence, and a responsive UI styled with **NativeWind**.
 * **🎮 [Jogo Termo MVP](https://github.com/raissasantana13/jogotermomvp)**: C# desktop implementation inspired by the game Wordle. Features asynchronous API consumption, audio manipulation with the **NAudio** library, and a styled UI using the **ReaLTaiizor** toolkit.
 * **📚 [Bookly](https://github.com/raissasantana13/bookly)**: Reading management system built in .NET Core. Implements layered architecture, **Dependency Injection**, mapping with **AutoMapper**, and **MySQL** persistence.
 * **♻️ [BiblioXchange](https://github.com/raissasantana13/biblioxchange)**: Web platform to encourage the circular economy of books, focused on a responsive interface and dynamic interactions via JavaScript.
