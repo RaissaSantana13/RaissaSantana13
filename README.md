@@ -10,9 +10,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
   <a href="https://raissasantana13.github.io/Portifolio/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=FF00F6" alt="Portfolio"></a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
 
 <table align="center">
   <tr>
@@ -39,9 +36,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
 
 ### 🚀 Featured Projects
 
@@ -51,9 +45,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 * **♻️ [BiblioXchange](https://github.com/raissasantana13/biblioxchange)**: Web platform to encourage the circular economy of books, focused on a responsive interface and dynamic interactions via JavaScript.
 * **🎭 [Alter Ego](https://github.com/raissasantana13/alter-ego-project)**: Interactive landing page inspired by the album from artist Lisa, exploring **Typewriter** animation effects and custom CSS overlays.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" />
