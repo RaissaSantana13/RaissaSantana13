@@ -7,7 +7,7 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 <div>
   <a href="mailto:raissasanta8@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email"></a>
   <a href="https://www.linkedin.com/in/raissa-santana-785736353/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a>
-  <a href="https://raissasantana13.github.io/Portifolio/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=FF00F6" alt="Portfolio"></a>
+  <a href="https://raissasantana13.github.io/Portifolio-Raissa/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=react&logoColor=FF00F6" alt="Portfolio"></a>
 </div>
 
 
