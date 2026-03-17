@@ -36,6 +36,9 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" />
+</div>
 
 ### 🚀 Featured Projects
 
@@ -45,7 +48,4 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 * **♻️ [BiblioXchange](https://github.com/raissasantana13/biblioxchange)**: Web platform to encourage the circular economy of books, focused on a responsive interface and dynamic interactions via JavaScript.
 * **🎭 [Alter Ego](https://github.com/raissasantana13/alter-ego-project)**: Interactive landing page inspired by the album from artist Lisa, exploring **Typewriter** animation effects and custom CSS overlays.
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" />
-</div>
+![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&icons=true)
