@@ -50,3 +50,9 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 
   ![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&rank_icon=github&hide=stars,contribs&icons=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&rank_icon=github&hide=stars,contribs&icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient" />
+</a>
