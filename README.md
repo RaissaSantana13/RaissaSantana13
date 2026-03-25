@@ -47,10 +47,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="40%" />
-</div>
-
 ### 🚀 Featured Projects
 
 * **🎬 [Cinephile Mobile App](https://github.com/raissasantana13/cinephile_mobile_app)**: An immersive mobile experience built with **React Native** and **Expo** for movie enthusiasts. It features dynamic **TMDB API** consumption for real-time listings, **Appwrite** integration for cloud-based trend persistence, and a responsive UI styled with **NativeWind**.
@@ -62,6 +58,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 -
 ### 📈 My GitHub History
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&show_icons=true&hide=stars,contribs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=ambient_gradient" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&show_icons=true&hide=stars,contribs" width="48%" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=ambient_gradient" width="48%" height="180"/>
 </p>
