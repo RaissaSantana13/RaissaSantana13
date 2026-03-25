@@ -58,6 +58,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 -
 ### 📈 My GitHub History
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&show_icons=true&hide=stars,contribs" width="48%" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=ambient_gradient" width="48%" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&show_icons=true&hide=stars,contribs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=ambient_gradient" height="180"/>
 </p>
