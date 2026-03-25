@@ -1,6 +1,17 @@
-# 🧑🏽‍💻 Raissa Santana
+<!-- Title -->
+<h1 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://shahriarshafin.github.io/">Raissa Santana</a></b>
+        </samp>
+</h1>
+<br>
 
-**Computer Engineering Student @ IFSP | Software Developer**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8184719-b777-4644-b0b9-4e03c47ff9d7" width="100%" />
+</p>
+
+
+**Computer Engineering Student @ IFSP | Full Stack & Mobile Developer**
 
 Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering student at IFSP. I am driven by the challenge of transforming complex problems into efficient code and by the pleasure of sharing knowledge with the community.
 
@@ -48,14 +59,9 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 * **♻️ [BiblioXchange](https://github.com/raissasantana13/biblioxchange)**: Web platform to encourage the circular economy of books, focused on a responsive interface and dynamic interactions via JavaScript.
 * **🎭 [Alter Ego](https://github.com/raissasantana13/alter-ego-project)**: Interactive landing page inspired by the album from artist Lisa, exploring **Typewriter** animation effects and custom CSS overlays.
 
+-
+### 📈 My GitHub History
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&show_icons=true&hide=stars,contribs" width="400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=ambient_gradient" width="400" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&show_icons=true&hide=stars,contribs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=ambient_gradient" width="48%" />
 </p>
