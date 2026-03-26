@@ -53,8 +53,7 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 * **📚 [Bookly](https://github.com/raissasantana13/bookly)**: Reading management system built in .NET Core. Implements layered architecture, **Dependency Injection**, mapping with **AutoMapper**, and **MySQL** persistence.
 * **♻️ [BiblioXchange](https://github.com/raissasantana13/biblioxchange)**: Web platform to encourage the circular economy of books, focused on a responsive interface and dynamic interactions via JavaScript.
 * **🎭 [Alter Ego](https://github.com/raissasantana13/alter-ego-project)**: Interactive landing page inspired by the album from artist Lisa, exploring **Typewriter** animation effects and custom CSS overlays.
-
--
+---
 ### 📈 My GitHub History
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=material-palenight&hide_rank=true&show_icons=true&hide=stars,contribs&"width="48%" />
