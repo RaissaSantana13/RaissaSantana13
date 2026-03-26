@@ -49,9 +49,9 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 ### 🚀 Featured Projects
 
 * **🎬 [Cinephile Mobile App](https://github.com/raissasantana13/cinephile_mobile_app)**: An immersive mobile experience built with **React Native** and **Expo** for movie enthusiasts. It features dynamic **TMDB API** consumption for real-time listings, **Appwrite** integration for cloud-based trend persistence, and a responsive UI styled with **NativeWind**.
-* **🎮 [Jogo Termo MVP](https://github.com/raissasantana13/jogotermomvp)**: C# desktop implementation inspired by the game Wordle. Features asynchronous API consumption, audio manipulation with the **NAudio** library, and a styled UI using the **ReaLTaiizor** toolkit.
 * **📚 [Bookly](https://github.com/raissasantana13/bookly)**: Reading management system built in .NET Core. Implements layered architecture, **Dependency Injection**, mapping with **AutoMapper**, and **MySQL** persistence.
-* **♻️ [BiblioXchange](https://github.com/raissasantana13/biblioxchange)**: Web platform to encourage the circular economy of books, focused on a responsive interface and dynamic interactions via JavaScript.
+* **🧠 [Quiz App](https://github.com/raissasantana13/quiz_app)**: An educational mobile app built with **Flutter** to support learning the framework. It includes a dynamic difficulty system that draws 5 easy, 3 medium, and 2 hard questions each session, featuring shuffled answers to challenge memorization and a vibrant UI.
+* **🎮 [Jogo Termo MVP](https://github.com/raissasantana13/jogotermomvp)**: C# desktop implementation inspired by the game Wordle. Features asynchronous API consumption, audio manipulation with the **NAudio** library, and a styled UI using the **ReaLTaiizor** toolkit.
 * **🎭 [Alter Ego](https://github.com/raissasantana13/alter-ego-project)**: Interactive landing page inspired by the album from artist Lisa, exploring **Typewriter** animation effects and custom CSS overlays.
 ---
 ### 📈 My GitHub History
