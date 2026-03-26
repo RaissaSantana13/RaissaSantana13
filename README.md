@@ -1,7 +1,6 @@
-<!-- Title -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Raissa Santana</a></b>
+                <b><a target="_blank" href="https://raissasantana13.github.io/Portifolio-Raissa/">Raissa Santana</a></b>
         </samp>
 </h1>
 <br>
@@ -58,6 +57,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 -
 ### 📈 My GitHub History
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=ambient_gradient&hide_rank=true&show_icons=true&hide=stars,contribs&card_height=195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=ambient_gradient&card_height=195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=material-palenight&hide_rank=true&show_icons=true&hide=stars,contribs&"width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=material-palenight&" width="37%"/>
 </p>
