@@ -54,8 +54,10 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
 * **🎮 [Jogo Termo MVP](https://github.com/raissasantana13/jogotermomvp)**: C# desktop implementation inspired by the game Wordle. Features asynchronous API consumption, audio manipulation with the **NAudio** library, and a styled UI using the **ReaLTaiizor** toolkit.
 * **🎭 [Alter Ego](https://github.com/raissasantana13/alter-ego-project)**: Interactive landing page inspired by the album from artist Lisa, exploring **Typewriter** animation effects and custom CSS overlays.
 ---
+<!--
 ### 📈 My GitHub History
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raissasantana13&theme=material-palenight&hide_rank=true&show_icons=true&hide=stars,contribs&"width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=material-palenight&" width="37%"/>
 </p>
+-->
