@@ -61,3 +61,6 @@ Hi! My name is **Raissa Santana**, I am 20 years old and a Computer Engineering 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissasantana13&layout=compact&theme=material-palenight&" width="37%"/>
 </p>
 -->
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RaissaSantana13&theme=tokyonight&border_radius=6&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</p>
